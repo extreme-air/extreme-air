@@ -2,7 +2,10 @@
 
 
 ![github-header-image](https://github.com/extreme-air/extreme-air/assets/124074058/8f723d64-7247-495c-9e8b-45239d167780)
-<h1> I'm computer science student at the University Of Leeds (UK), and this is my university account which I mainly use for academic projects. </h1>
+
+
+<h1> About Me </h1>
+<ul>I'm computer science student at the University Of Leeds (UK), and this is my university account which I mainly use for academic projects.</ul>
 
 <!--
 **extreme-air/extreme-air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
